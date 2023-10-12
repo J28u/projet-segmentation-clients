@@ -1,5 +1,5 @@
 # OC/DS Projet 5 : Segmentez des clients d'un site e-commerce
-Formation OpenClassrooms - Parcours data scientist - Projet Professionnalisant (Février - Avril 2023)
+Formation OpenClassrooms - Parcours data scientist - Projet Professionnalisant (Février - Mars 2023)
 
 ## Secteur : 
 Communication et marketing ; Commerce et distribution
